@@ -11,10 +11,15 @@ func main(){
 	//}else{
 		//fmt.Println("8 is even")
 	//}
-if num:=10; num>0{
+/*if num:=10; num>0{
 	fmt.Println(num, "is negative ")
 }else if num>10{
 	fmt.Println(num, " is posetive")
 	}
-
+*/
+if num:= 9; num<0{
+	fmt.Println(num, "is negative")
+}else{
+	fmt.Println(num, "is posetive")
+}
 }
